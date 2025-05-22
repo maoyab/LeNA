@@ -1,4 +1,4 @@
-LeNA - Leaf Nitrogen Acclimation
+**LeNA** - **Le**af **N**itrogen **A**cclimation
 
 This repository contains scripts necessary to repeat analysis in: M Bassiouni, NG. Smith, JC Reu, J Peñuelas, TF Keenan. Observed Declines in Leaf Nitrogen Explained by Photosynthetic Acclimation to CO2
 
